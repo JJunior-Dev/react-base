@@ -1,5 +1,5 @@
 import React from 'react';
-import './TextoMaiusculoColorido.css';
+import './index.css';
 
 function TextoMaiusculoColorido(props) {
   const { texto, cor } = props;
